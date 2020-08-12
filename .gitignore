@@ -1,0 +1,4 @@
+# Project exclude paths
+/spring-cloud-gateway/knife4j-spring-cloud-gateway/knife4j-apigateway/target/
+/spring-cloud-gateway/knife4j-spring-cloud-gateway/knife4j-service-user/target/
+/spring-cloud-gateway/knife4j-spring-cloud-gateway/knife4j-spring-service-order/target/

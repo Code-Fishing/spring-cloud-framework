@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-alibaba-stream-rocketmq" />
+        <module name="spring-cloud-log" />
+        <module name="spring-cloud-db" />
+        <module name="spring-cloud-config" />
+        <module name="spring-cloud-transaction" />
+        <module name="spring-cloud-job" />
+        <module name="knife4j-apigateway" />
+        <module name="spring-cloud-flowControl" />
+        <module name="spring-cloud-serviceCall" />
+        <module name="spring-cloud-register" />
+        <module name="spring-cloud-security" />
+        <module name="spring-cloud-monitor" />
+        <module name="spring-cloud-trace" />
+        <module name="knife4j-service-user" />
+        <module name="spring-cloud-file" />
+        <module name="knife4j-spring-service-order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-alibaba-stream-rocketmq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
